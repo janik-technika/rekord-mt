@@ -14,13 +14,13 @@
   },
   {
     "id": "p_mob618z7_urdu0t",
-    "slug": "akce-1776929650099",
-    "name": "Nová prodejní akce",
+    "slug": "test1",
+    "name": "Test1",
     "shortDescription": "Test",
     "longDescription": "Test",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob618z7_urdu0t-image-hangcha-vozik.jpeg",
-    "pdfUrl": "",
-    "badge": "",
+    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob618z7_urdu0t-pdf-test.pdf",
+    "badge": "-10%",
     "validUntil": "30.5.2026",
     "createdAt": "2026-04-23T07:34:10.099Z",
     "published": true
