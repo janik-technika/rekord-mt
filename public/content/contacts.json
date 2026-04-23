@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c_pavel_simek",
+    "name": "Pavel Šimek",
+    "role": "Prodej ND a manipulační techniky – Jednatel",
+    "phones": [
+      {
+        "number": "+420 608 631 279",
+        "type": "tel"
+      }
+    ],
+    "email": "info@rekord-mt.cz",
+    "order": 1
+  },
+  {
+    "id": "c_renata_simkova",
+    "name": "Renata Šimková",
+    "role": "Účetní",
+    "phones": [
+      {
+        "number": "+420 608 335 993",
+        "type": "tel"
+      }
+    ],
+    "email": "rensim@atlas.cz",
+    "order": 2
+  },
+  {
+    "id": "c_prodejna",
+    "name": "Prodejna",
+    "role": "Kamenec 410, 768 61 Bystřice pod Hostýnem",
+    "phones": [
+      {
+        "number": "+420 573 381 181",
+        "type": "tel"
+      }
+    ],
+    "email": "info@rekord-mt.cz",
+    "order": 3
+  },
+  {
+    "id": "c_servis",
+    "name": "Servis man. techniky / sklad ND",
+    "role": "Servisní oddělení",
+    "phones": [
+      {
+        "number": "+420 573 381 181",
+        "type": "tel"
+      },
+      {
+        "number": "+420 774 631 274",
+        "type": "gsm"
+      }
+    ],
+    "email": "servis@rekord-mt.cz",
+    "order": 4
+  },
+  {
+    "id": "c_milan_obkracil",
+    "name": "Milan Obkráčil",
+    "role": "Školení řidičů VZV, vazačů, jeřábníků, TK motorových vozíků",
+    "phones": [
+      {
+        "number": "+420 775 194 538",
+        "type": "tel"
+      }
+    ],
+    "email": "skoleni@milob.cz",
+    "order": 5
+  },
+  {
+    "id": "c_mob6rlti_5m8kt1",
+    "name": "Test",
+    "role": "Test",
+    "phones": [
+      {
+        "number": "111 111 111",
+        "type": "tel"
+      }
+    ],
+    "email": "Test",
+    "order": 6
+  }
+]
