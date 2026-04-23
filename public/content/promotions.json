@@ -1,11 +1,24 @@
 [
   {
+    "id": "p_mob72l7o_u0wa9q",
+    "slug": "test-2",
+    "name": "Test 2",
+    "shortDescription": "Test2",
+    "longDescription": "Test2",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob72l7o_u0wa9q-image-osaka-cpcd253035-min.jpeg",
+    "pdfUrl": "",
+    "badge": "- 15%",
+    "validUntil": "",
+    "createdAt": "2026-04-23T08:03:12.228Z",
+    "published": true
+  },
+  {
     "id": "p_mob618z7_urdu0t",
     "slug": "akce-1776929650099",
     "name": "Nová prodejní akce",
     "shortDescription": "Test",
     "longDescription": "Test",
-    "imageUrl": "/content/uploads/promotions/p_mob618z7_urdu0t-image-hangcha-vozik.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob618z7_urdu0t-image-hangcha-vozik.jpeg",
     "pdfUrl": "",
     "badge": "",
     "validUntil": "30.5.2026",
