@@ -1,28 +1,15 @@
 [
   {
-    "id": "p_mob72l7o_u0wa9q",
-    "slug": "test-2",
-    "name": "Test 2",
-    "shortDescription": "Test2",
-    "longDescription": "Test2",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob72l7o_u0wa9q-image-osaka-cpcd253035-min.jpeg",
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob72l7o_u0wa9q-pdf-test.pdf",
-    "badge": "- 15%",
-    "validUntil": "15.6.2026",
-    "createdAt": "2026-04-23T08:03:12.228Z",
-    "published": true
-  },
-  {
-    "id": "p_mob618z7_urdu0t",
-    "slug": "test1",
-    "name": "Test1",
-    "shortDescription": "Test",
-    "longDescription": "Test",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob618z7_urdu0t-image-hangcha-vozik.jpeg",
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mob618z7_urdu0t-pdf-test.pdf",
-    "badge": "-10%",
-    "validUntil": "30.5.2026",
-    "createdAt": "2026-04-23T07:34:10.099Z",
-    "published": true
+    "id": "p_mpxudx2f_oiuccd",
+    "slug": "electric-stacker-staxx-ws15h-compact-edition-elektricky-zakladac",
+    "name": "ELECTRIC STACKER STAXX WS15H  – COMPACT EDITION  -        ELEKTRICKÝ ZAKLADAČ ",
+    "shortDescription": "",
+    "longDescription": "STAXX WS15H – s vestavěnou nabíječkou \nDUPLEX , MAX výška 3500 mm\nSnadná obsluha v kontejnerech a výtahech\nBezúdržbový olověný akumulátor s dlouhou životností 24V/71Ah\n Vysoce pevné vidle z 8mm oceli\n\n",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/rekord-mt/main/public/content/uploads/promotions/p_mpxudx2f_oiuccd-image-dea2aba5-cd55-4f09-9875-d353078a72ae.jpg",
+    "pdfUrl": "",
+    "badge": "Cena 77.000,- Bez DPH ",
+    "validUntil": "",
+    "createdAt": "2026-06-03T09:06:30.183Z",
+    "published": false
   }
 ]
