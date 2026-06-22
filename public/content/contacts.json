@@ -56,19 +56,6 @@
     "order": 4
   },
   {
-    "id": "c_mob6rlti_5m8kt1",
-    "name": "Milan Chvátal",
-    "role": "servisní technik ",
-    "phones": [
-      {
-        "number": "774631274",
-        "type": "gsm"
-      }
-    ],
-    "email": "",
-    "order": 5
-  },
-  {
     "id": "c_milan_obkracil",
     "name": "Milan Obkráčil",
     "role": "Školení řidičů VZV, vazačů, jeřábníků, TK motorových vozíků",
@@ -79,7 +66,33 @@
       }
     ],
     "email": "skoleni@milob.cz",
-    "order": 8
+    "order": 5
+  },
+  {
+    "id": "c_mob6rlti_5m8kt1",
+    "name": "Milan Chvátal",
+    "role": "servisní technik ",
+    "phones": [
+      {
+        "number": "774631274",
+        "type": "gsm"
+      }
+    ],
+    "email": "Test",
+    "order": 6
+  },
+  {
+    "id": "c_mqp6skkn_33gnpg",
+    "name": "Nový kontakt",
+    "role": "",
+    "phones": [
+      {
+        "number": "",
+        "type": "tel"
+      }
+    ],
+    "email": "",
+    "order": 7
   },
   {
     "id": "c_mqp6sofl_eekzs1",
@@ -92,6 +105,6 @@
       }
     ],
     "email": "",
-    "order": 6
+    "order": 8
   }
 ]
