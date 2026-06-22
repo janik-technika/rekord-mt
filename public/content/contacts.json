@@ -80,5 +80,31 @@
     ],
     "email": "Test",
     "order": 6
+  },
+  {
+    "id": "c_mqp6skkn_33gnpg",
+    "name": "Nový kontakt",
+    "role": "",
+    "phones": [
+      {
+        "number": "",
+        "type": "tel"
+      }
+    ],
+    "email": "",
+    "order": 7
+  },
+  {
+    "id": "c_mqp6sofl_eekzs1",
+    "name": "Pavel Krajcar ",
+    "role": "servisní technik - středisko Ton a.s. -Bystřice p /Host",
+    "phones": [
+      {
+        "number": "773671680",
+        "type": "gsm"
+      }
+    ],
+    "email": "",
+    "order": 8
   }
 ]
